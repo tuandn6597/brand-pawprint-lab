@@ -1,0 +1,52 @@
+{
+  "brand": "pawprint-lab",
+  "data": {
+    "byKeyword": [
+      {
+        "keyword": "pawprint lab",
+        "mentions": 1
+      },
+      {
+        "keyword": "dog supplement",
+        "mentions": 1
+      },
+      {
+        "keyword": "pet health",
+        "mentions": 1
+      }
+    ],
+    "mentions": {
+      "total": 3
+    },
+    "posts": [
+      {
+        "createdUtc": 1754215924,
+        "id": "t3_386339f9",
+        "score": 9,
+        "subreddit": "30PlusSkinCare",
+        "title": "pet health — experience (2026-W34)",
+        "url": "https://www.reddit.com/r/30PlusSkinCare/comments/t3_386339f9/"
+      },
+      {
+        "createdUtc": 1754311829,
+        "id": "t3_be1f2eaa",
+        "score": 24,
+        "subreddit": "SkincareAddiction",
+        "title": "pawprint lab — experience (2026-W34)",
+        "url": "https://www.reddit.com/r/SkincareAddiction/comments/t3_be1f2eaa/"
+      },
+      {
+        "createdUtc": 1754318306,
+        "id": "t3_dbe71ff1",
+        "score": 24,
+        "subreddit": "30PlusSkinCare",
+        "title": "dog supplement — experience (2026-W34)",
+        "url": "https://www.reddit.com/r/30PlusSkinCare/comments/t3_dbe71ff1/"
+      }
+    ]
+  },
+  "period": "2026-W34",
+  "schemaVersion": "v1",
+  "source": "reddit",
+  "status": "ok"
+}

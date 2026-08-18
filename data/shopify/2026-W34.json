@@ -1,0 +1,50 @@
+{
+  "brand": "pawprint-lab",
+  "data": {
+    "catalog": [
+      {
+        "productType": "Pet care",
+        "sku": "PP-100",
+        "title": "Pawprint Lab Serum",
+        "variantId": "gid://shopify/ProductVariant/PP-100"
+      },
+      {
+        "productType": "Pet care",
+        "sku": "PP-200",
+        "title": "Pawprint Lab Night Cream",
+        "variantId": "gid://shopify/ProductVariant/PP-200"
+      },
+      {
+        "productType": "Pet care",
+        "sku": "PP-300",
+        "title": "Pawprint Lab Starter Kit",
+        "variantId": "gid://shopify/ProductVariant/PP-300"
+      }
+    ],
+    "orders": {
+      "count": 5,
+      "revenue": 1102.66,
+      "units": 22
+    },
+    "refunds": {
+      "amount": 0,
+      "count": 0
+    },
+    "unitsBySku": [
+      {
+        "revenue": 485.38,
+        "sku": "PP-100",
+        "units": 14
+      },
+      {
+        "revenue": 617.28,
+        "sku": "PP-300",
+        "units": 8
+      }
+    ]
+  },
+  "period": "2026-W34",
+  "schemaVersion": "v1",
+  "source": "shopify",
+  "status": "ok"
+}
