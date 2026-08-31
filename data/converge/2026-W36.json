@@ -1,0 +1,34 @@
+{
+  "brand": "pawprint-lab",
+  "data": {
+    "adSpend": 7500.29,
+    "attributedRevenue": 22952.01,
+    "attributionModel": "blended",
+    "blendedRoas": 3.06,
+    "byChannel": [
+      {
+        "attributedRevenue": 8749.19,
+        "channel": "Google",
+        "roas": 3.41,
+        "spend": 2562.29
+      },
+      {
+        "attributedRevenue": 5218.25,
+        "channel": "Meta",
+        "roas": 1.9,
+        "spend": 2746.67
+      },
+      {
+        "attributedRevenue": 8984.57,
+        "channel": "TikTok",
+        "roas": 4.1,
+        "spend": 2191.33
+      }
+    ],
+    "currency": "USD"
+  },
+  "period": "2026-W36",
+  "schemaVersion": "v1",
+  "source": "converge",
+  "status": "ok"
+}
