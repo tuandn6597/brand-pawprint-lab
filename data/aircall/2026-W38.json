@@ -1,0 +1,30 @@
+{
+  "brand": "pawprint-lab",
+  "data": {
+    "avgDurationSeconds": 336,
+    "callCount": 5,
+    "dispositions": [
+      {
+        "count": 2,
+        "disposition": "follow-up"
+      },
+      {
+        "count": 1,
+        "disposition": "escalated"
+      },
+      {
+        "count": 1,
+        "disposition": "resolved"
+      },
+      {
+        "count": 1,
+        "disposition": "voicemail"
+      }
+    ],
+    "totalDurationSeconds": 1680
+  },
+  "period": "2026-W38",
+  "schemaVersion": "v1",
+  "source": "aircall",
+  "status": "ok"
+}
