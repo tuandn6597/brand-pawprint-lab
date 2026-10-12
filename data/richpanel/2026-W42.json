@@ -1,0 +1,46 @@
+{
+  "brand": "pawprint-lab",
+  "data": {
+    "ticketVolume": 6,
+    "topTags": [
+      {
+        "count": 3,
+        "tag": "product"
+      },
+      {
+        "count": 2,
+        "tag": "billing"
+      },
+      {
+        "count": 2,
+        "tag": "refund"
+      },
+      {
+        "count": 1,
+        "tag": "account"
+      }
+    ],
+    "topThemes": [
+      {
+        "count": 2,
+        "theme": "delivery delay"
+      },
+      {
+        "count": 2,
+        "theme": "usage question"
+      },
+      {
+        "count": 1,
+        "theme": "billing"
+      },
+      {
+        "count": 1,
+        "theme": "product quality"
+      }
+    ]
+  },
+  "period": "2026-W42",
+  "schemaVersion": "v1",
+  "source": "richpanel",
+  "status": "ok"
+}
